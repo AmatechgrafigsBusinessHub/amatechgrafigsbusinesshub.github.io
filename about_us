@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="about_us.css">
+</head>
+<body>
+<div class="textstyle1">
+<div id="container_428514aa"><div id="container_428514aa_padding" ><div class="textstyle1"><div id="menu_1590382d"><div  class="menuholder1"><a href="javascript:void(0);">
+	<div id="menuentry_103b5c73"  class="style1 menu_1590382d_mainMenuEntry mobileEntry">
+		<div class="style2">
+  <span class="textstyle2">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);">
+	<div id="menuentry_2c7116ea"  class="style3 menu_1590382d_mainMenuEntry normalEntry">
+		<div class="style4">
+  <span class="textstyle3">MENU</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_1590382d= new wsp_menu('menu_1590382d', 'menu_1590382d', 10);
+
+		js_menu_1590382d.createMenuForItem('menuentry_103b5c73', ["  <span class=\"textstyle3\">Home</span> ", 'index.html', '']);
+		js_menu_1590382d.createMenuForItem('menuentry_2c7116ea', ["  <span class=\"textstyle3\">Home</span> ", 'index.html', '']);
+
+	</script>
+</div></div><div id="container_19da6ef5"><div id="container_19da6ef5_padding" ><div class="textstyle1"><h1 id="heading_74cc30ce">ABOUT US</h1></div>
+<div style="clear:both"></div></div></div></div>
+<div style="clear:both"></div></div></div>  </div>
+<div class="textstyle4">
+<div id="container_2218d2b4"><div id="container_2218d2b4_padding" ><div class="textstyle1">  <div id="text_5ed68884">
+    <div class="textstyle1">
+      <span class="textstyle5">VTU AFRICA presents you with an innovative solution to top up airtime, recharge data, pay cable TV subscriptions, pay electricity bills, buy JAMB, WAEC, NECO, NABTEB CARDS and make profits.<br/><br/>www.vtuafrica.com.ng is owned and operated by VTU AFRICA which is registered with the corporate affair commission to provide top-notch web services.</span>
+      </div>
+    </div>
+</div>
+<div style="clear:both"></div></div></div><div id="container_491a62e6"><div id="container_491a62e6_padding" ><div class="textstyle1">  <div id="text_768882c7">
+    <div class="textstyle1">
+      <span class="textstyle5">With our custom services on VTU Africa, you can;<br/>&#9989; Top up airtime as low as N50 on MTN, Airtel, GLO, 9mobile.<br/>&#9989; Top up airtime for any mobile network operator in the world (Global top up).<br/>&#9989; Top up data bundles instantly for all GSM networks in Nigeria.<br/>&#9989; Top up MTN data (data share) instantly as low as N450/1GB for large-scale data vendors.<br/>&#9989; Direct Top up on MTN VTU SIM wallet available to vendors with MTN VTU SIMs<br/>&#9989; Pay cable TV subscriptions (Startimes, Gotv, DStv) instantly.<br/>&#9989; Pay Electricity bill payments (EKO, IKEDC, KEDC, IBEDC, AEDC, EEDC, PHED etc)<br/>&#9989; You enjoy unique bulk SMS service that delivers to all networks with custom reporting, so, you will never waste your SMS credits.<br/><br/>As a vendor on VTU AFRICA, you get discounts from VTU airtime recharge on all GSM networks and pay less for cable TV payments.</span>
+      </div>
+    </div>
+</div>
+<div style="clear:both"></div></div></div>  </div>
+<div class="textstyle1">
+<div id="container_3d782f09"><div id="container_3d782f09_padding" ></div></div><div id="container_4cfbf672"><div id="container_4cfbf672_padding" ></div></div><div id="container_629e3c79"><div id="container_629e3c79_padding" ></div></div>  </div>
+</body>
+</html>
